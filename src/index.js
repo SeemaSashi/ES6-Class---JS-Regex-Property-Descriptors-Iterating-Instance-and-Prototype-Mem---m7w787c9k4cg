@@ -18,8 +18,3 @@ class API {
 }
 
 module.exports = { API }
-
-
-
-//Do not remove this code
-module.exports = { API }
